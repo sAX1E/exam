@@ -1,6 +1,3 @@
--- Схема БД приложения «Онлайн‑магазин игр»
--- Файл базы: data/auction.db (от корня проекта) или /app/data/auction.db в Docker
-
 CREATE TABLE game (
     id INTEGER NOT NULL,
     title VARCHAR(100) NOT NULL,
