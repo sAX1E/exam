@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+myenv/
+.coverage
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Secrets
+.env
+
+# Local data
+teamcity-data/
+teamcity/
